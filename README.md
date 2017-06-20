@@ -1,0 +1,2 @@
+# learningCplusplus
+note about c++
